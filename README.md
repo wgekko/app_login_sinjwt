@@ -11,6 +11,9 @@ usuario2 - clave : user456
 para ejecutar esta app deben escribir 
 streamlit run app.py
 
+link de demo 
+https://app-acceso-metricas.streamlit.app/
+
 video 
 https://github.com/user-attachments/assets/721a4ae0-2782-44dc-9e30-47f4b6c504eb
 
