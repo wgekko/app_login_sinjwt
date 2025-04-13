@@ -14,6 +14,10 @@ streamlit run app.py
 link de demo 
 https://app-acceso-metricas.streamlit.app/
 
-video 
-https://github.com/user-attachments/assets/721a4ae0-2782-44dc-9e30-47f4b6c504eb
+video
+
+https://github.com/user-attachments/assets/9e8cd7f1-b3c4-459c-9b74-f263d6365cb6
+
+
+
 
